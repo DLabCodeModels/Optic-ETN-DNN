@@ -1,0 +1,22 @@
+{
+  "version": "software_simulation_v1",
+  "nir_min_uw_um2": 250.0,
+  "nir_max_uw_um2": 720.0,
+  "fall_threshold": 0.06,
+  "contrast_reference": 0.15,
+  "voltage_threshold_v": 0.04,
+  "trace_time_constant_ms": 150.0,
+  "temporal_time_constant_ms": 80.0,
+  "camera_fps": 30.0,
+  "train_val_ratio": 0.8,
+  "purge_frames": 30,
+  "epochs": 30,
+  "batch_size": 8,
+  "lr": 0.0005,
+  "lambda_action": 0.05,
+  "lambda_focal": 0.3,
+  "base_channels": 24,
+  "risk_rule": "fixed_thresholds",
+  "control_model": "illustrative_kinematic_integration_not_drone_flight",
+  "input_mapping": "grayscale_to_NIR_affine_proxy_not_experimentally_calibrated"
+}

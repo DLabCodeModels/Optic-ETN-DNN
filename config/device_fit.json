@@ -1,0 +1,13 @@
+{
+  "version": "figure_digitization_v1",
+  "fit_method": "piecewise_linear_interpolation_per_response_mode",
+  "transition_uw_um2": 495.0,
+  "vg": -2.0,
+  "gate_shift_uw_um2_per_v": 0.0,
+  "time_definition_assumption": "reported time is approximated as 1/e time constant",
+  "unmeasured_transition_interval_uw_um2": [
+    480,
+    510
+  ],
+  "extrapolation": "clamp_to_endpoint"
+}

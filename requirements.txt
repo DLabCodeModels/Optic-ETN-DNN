@@ -1,0 +1,7 @@
+numpy>=1.26,<3.0
+pandas>=2.0,<3.0
+h5py>=3.10,<4
+opencv-python-headless>=4.8,<5
+matplotlib>=3.7,<4
+pillow>=10,<13
+torch>=2.6,<3

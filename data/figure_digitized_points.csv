@@ -1,0 +1,17 @@
+mode,NIR_intensity_uW_um2,signed_peak_V,characteristic_time_us
+positive_decay,270,0.83,70.5
+positive_decay,300,0.8,69.5
+positive_decay,330,0.8,66.2
+positive_decay,360,0.74,66.2
+positive_decay,390,0.7,59.3
+positive_decay,420,0.65,47
+positive_decay,450,0.57,33
+positive_decay,480,0.49,18
+polarity_reversal,510,-0.141,45
+polarity_reversal,540,-0.144,39
+polarity_reversal,570,-0.148,37
+polarity_reversal,600,-0.161,34
+polarity_reversal,630,-0.176,33
+polarity_reversal,660,-0.183,30
+polarity_reversal,690,-0.188,20
+polarity_reversal,720,-0.195,13
